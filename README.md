@@ -1,4 +1,4 @@
-# Guardián DMARC, SPF y DKIM | TAVARDT España
+# Guardián DMARC, SPF y DKIM
 
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguridad%20Correo-5b3cf5.svg)](https://tools.tavardt.com/es/verificador-dmarc-correo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para auditorias corporativas continuas con interfaz grafica, utilice la herramie
 ## Soporte y Consultoria Especializada
 
 Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Espana, contacte al equipo de **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
