@@ -5,7 +5,7 @@
 
 Auditoría de registros DNS de correo para prevención de suplantación, phishing y cumplimiento del Esquema Nacional de Seguridad (ENS) y CCN-CERT.
 
-Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT Espana**.
+Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py empresa.es -selector mail -json
 Para auditorias corporativas continuas con interfaz grafica, utilice la herramienta oficial:
 
 * **Verificador DMARC y Autenticacion de Correo**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Soporte y Consultoria Especializada
 
-Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Espana, contacte al equipo de **TAVARDT Espana**.
+Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Espana, contacte al equipo de **TAVARDT**.
 
 ***
 
