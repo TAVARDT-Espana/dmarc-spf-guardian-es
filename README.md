@@ -1,14 +1,13 @@
 # Guardián DMARC, SPF y DKIM | TAVARDT España
 
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguridad%20Correo-5b3cf5.svg)](https://tools.tavardt.com/es/verificador-dmarc-correo/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoría de registros DNS de correo para prevención de suplantación, phishing y cumplimiento del Esquema Nacional de Seguridad (ENS) y CCN-CERT.
 
-Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT Espana**.
 
----
+***
 
 ## Funcionalidades y Verificaciones
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de ciberseguridad e infraestructura de 
 * **Mecanismos de Informes**: Chequeo de parametros de envio de informes agregados y forenses (rua y ruf).
 * **Alineacion Normativa**: Estructurado de acuerdo con el Guías de Seguridad CCN-STIC del CCN-CERT y Esquema Nacional de Seguridad (ENS).
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python guardian.py empresa.es
 Para verificar un selector DKIM especifico o generar salida en formato JSON:
 
 ```bash
-python guardian.py empresa.es --selector mail --json
+python guardian.py empresa.es -selector mail -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para auditorias corporativas continuas con interfaz grafica, utilice la herramienta oficial:
 
-* **[Verificador DMARC y Autenticacion de Correo](https://tools.tavardt.com/es/verificador-dmarc-correo/)**
+* **Verificador DMARC y Autenticacion de Correo**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Soporte y Consultoria Especializada
 
-Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Espana, contacte al equipo de **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Espana, contacte al equipo de **TAVARDT Espana**.
